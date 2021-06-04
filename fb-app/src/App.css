@@ -1,0 +1,9 @@
+.app{
+  background-color: #f1f2f5;
+}
+.app_body{
+  display: flex;
+}
+
+/* MOgodb stuff:mongodb+srv://fb-clone:<password>@cluster0.s4cox.mongodb.net/myFirstDatabase?retryWrites=true&w=majority */
+/*              mongodb+srv://fb-clone:<password>@cluster0.s4cox.mongodb.net/myFirstDatabase?retryWrites=true&w=majority */
